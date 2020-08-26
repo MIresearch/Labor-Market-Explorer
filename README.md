@@ -1,59 +1,91 @@
 <br><br>
 <head>
- <!-- Default Statcounter code for Global-Opportunity-Index
-https://miresearch.github.io/Global-Opportunity-Index/ -->
+<!-- Default Statcounter code for Labor Market Explorer
+https://miresearch.github.io/Labor-Market-Explorer/ -->
 <script type="text/javascript">
-var sc_project=12339751; 
+var sc_project=12381799; 
 var sc_invisible=1; 
-var sc_security="c196880c"; 
-var scJsHost = "https://";
-document.write("<sc"+"ript type='text/javascript' src='" +
-scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
+var sc_security="15b2090b"; 
+var sc_https=1; 
 </script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
 <noscript><div class="statcounter"><a title="Web Analytics"
 href="https://statcounter.com/" target="_blank"><img
 class="statcounter"
-src="https://c.statcounter.com/12339751/0/c196880c/0/"
+src="https://c.statcounter.com/12381799/0/15b2090b/1/"
 alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
  
-<meta name="twitter:title" content="Global Opportunity Index">
+<meta name="twitter:title" content="Labor Market Explorer">
 <meta name="twitter:image" content="https://claudelopezcom.ipage.com/claudelopez/GOI.jpg">
 <meta name="twitter:card" content="summary_large_image">
 
-<meta property="og:title" content="Global Opportunity Index">
+<meta property="og:title" content="Labor Market Explorer">
 <meta property="og:image" content="https://claudelopezcom.ipage.com/claudelopez/GOI.jpg">
 <meta property="og:image:url" content="https://claudelopezcom.ipage.com/claudelopez/GOI.jpg">
 <meta property="og:image:secure_url" content="https://claudelopezcom.ipage.com/claudelopez/GOI.jpg">
-<meta property="og:url" content="https://miresearch.github.io/Global-Opportunity-Index/">
+<meta property="og:url" content="https://miresearch.github.io/Labor-Market-Explorer/">
 
  </head>
 
 
 <H1><b>Milken Institute Research Department </b></H1>  <Hr>
-<H2><b>Global Opportunity Index -- GOI</b></H2>  <Hr>
+<H2><b>Labor Market Explorer</b></H2>  <Hr>
 
-The GOI considers economic and financial factors that influence foreign investment activities as well as key business, legal, and regulatory policies that governments can modify to support and often drive investments. Overall, it tracks countries' performances using five categories:
-<ul>
- <li> <b>Business Perception </b> measures explicit and implicit costs associated with business operations, such as tax burden, transparency, etc. </li>
- <li> <b>Financial Services</b> measures the size and access to financial services in a country by looking at the country’s financial infrastructure and access to credit. </li>
- <li> <b>Institutional Framework</b> measures the extent to which a country’s institutions provide a supportive framework for businesses.</li>
- <li> <b>Economic Fundamentals</b> indicates the current economic strength of a country vis-à-vis the global economic outlook. The assessment focuses on the country’s macroeconomic performance, trade openness, quality and structure of the labor force, and modern infrastructure. </li>
- <li> <b>International Standards and Policy</b> reflects the extent to which a country’s institutions, policies, and legal system facilitate international integration by following international standards. </li></ul>
+The <b> Labor Market Explorer </b> is a set of interactive map of the US metropolitan areas that allow the users to track the employment changes across eight major economic sectors:  education and health services, financial activities, government, information, leisure and hospitality, manufacturing, professional and business services, and trade, transportation, and utilities.
 
-<a href="https://miresearch.github.io/Global-Opportunity-Index/Global%20Opportunity%20Index%202020%20_Variables.pdf" target="_blank"> Link to the list of the variables. </a><br>
-<a href="https://claudelopez.com/ifm-team-mi/" target="_blank"> Link to the GOI reports and related work. </a>
 
 <a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
 
 
 <Br>
-  <H2>Interactive Map</H2> 
-  <iframe src="https://public.tableau.com/views/goi1/Dashboard1?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="650" frameborder="0"></iframe>
+  <H2>Interactive Map, Monthly Changes</H2> 
+  <iframe src="https://public.tableau.com/views/COVID-19MappingItsImpactonUSIndustriesMonthlyChange/Monthly?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="650" frameborder="0"></iframe>
   <br>
-  <H2>Interactive Ranking</H2> 
-  <iframe src="https://public.tableau.com/views/goi1/Dashboard3?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="650" frameborder="0"></iframe>
+  <H2>Interactive Map, YearlyChanges</H2> 
+  <iframe src="https://public.tableau.com/views/COVID-19MappingItsImpactonUSIndustriesYear-over-yearChange/Yearly?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="650" frameborder="0"></iframe>
+ 
+ 
+ 
+ What does each industry sector include? 
+
+ 
+
+The education and health services sector includes educational services and health care and social assistance (individual and family services; emergency and other relief services; vocational rehabilitation services; child day care services).  
+
+ 
+
+The subsectors of the financial activities sector include: monetary authorities - central bank; credit intermediation and related activities; securities, commodity contracts, investments, and funds and trusts; insurance carriers and related activities; real estate; rental and leasing services; lessors of nonfinancial intangible assets. 
+
+ 
+
+The government sector includes federal, state, and local government jobs.  
+
+ 
+
+The subsectors of the information sector include: publishing industries, except Internet; motion picture and sound recording industries; broadcasting, except Internet; telecommunications; data processing, hosting and related services; other information services. 
+
+ 
+
+The subsectors of the leisure and hospitality sector include: arts, entertainment, and recreation (performing arts and spectator sports; museums, historical sites, zoos, and parks; amusements, gambling, and recreation), accommodation and food services (accommodation; food services and drinking places), other services (repair and maintenance; personal and laundry services; membership associations and organizations). 
+
+ 
+
+The subsectors of the manufacturing sector include: wood products; nonmetallic mineral products; primary metals; fabricated metal products; machinery; computer and electronic products; electrical equipment and appliances; transportation equipment; furniture and related products; miscellaneous durable goods manufacturing; food manufacturing; textile mills; textile product mills; apparel; paper and paper products; printing and related support activities; petroleum and coal products; chemicals; plastics and rubber products; miscellaneous nondurable goods manufacturing. 
+
+ 
+
+The subsectors of the professional and business services sector include: professional and technical services (legal services; accounting and bookkeeping services; architectural and engineering services; specialized design services; computer systems design and related services; management and technical consulting services; scientific research and development services; advertising and related services; other professional and technical services), management of companies and enterprises, and administrative and waste services (administrative and support services; waste management and remediation services). 
+
+ 
+
+The subsectors of the trade, transportation, and utilities sector include: wholesale trade; retail trade; transportation and warehousing; utilities. 
+
+ 
+
+ data sources: Moody’s Analytics; Milken Institute.
   
 <br>
 <br>
