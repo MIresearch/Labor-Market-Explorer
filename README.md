@@ -50,17 +50,15 @@ The <b> Labor Market Explorer </b> is a set of interactive map of the US metropo
 
 <div class="split right">
   <div class="centered">
-   <H2>Interactive Map, YearlyChanges</H2> 
-     <iframe src="https://public.tableau.com/views/COVID-19MappingItsImpactonUSIndustriesYear-over-yearChange/Yearly?:language=en&:display_count=y&:origin=viz_share_link" "></iframe>
+   <H2>Interactive Map, Yearly Changes</H2> 
+     <iframe src="https://public.tableau.com/views/COVID-19MappingItsImpactonUSIndustriesYear-over-yearChange/Yearly?:language=en&:display_count=y&:origin=viz_share_link"></iframe>
   </div>
 </div>
   
   
   <br>
   
- 
- 
- 
+  
  
  What does each industry sector include? 
 
