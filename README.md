@@ -32,10 +32,13 @@ alt="Web Analytics"></a></div></noscript>
 .split {
   height: 100%;
   width: 50%;
-  position: static;
-overflow-x: hidden;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
   padding-top: 20px;
 }
+
 .left {
   left: 0;
  }
