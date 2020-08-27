@@ -40,13 +40,11 @@ alt="Web Analytics"></a></div></noscript>
 }
 .left {
   left: 0;
-  background-color: #111;
-}
+ }
 
 .right {
   right: 0;
-  background-color: red;
-}
+  }
 
 .centered {
   position: absolute;
