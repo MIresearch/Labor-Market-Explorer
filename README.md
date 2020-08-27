@@ -67,14 +67,11 @@ The <b> Labor Market Explorer </b> is a set of interactive map of the US metropo
 
 
 <Br>
- <br>
- <br>
- <br>
- <br>
-     <H3>Interactive Map, Monthly Changes</H3> 
-<center><iframe src="https://public.tableau.com/views/Monthly_15985501456920/MonthlyDash?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width="1000" height="827" frameborder="0"></iframe></center>
+ 
+<H2>Interactive Map, Monthly Changes</H2> 
+<center><iframe src="https://public.tableau.com/views/Monthly_15985501456920/MonthlyDash?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="100%" frameborder="0"></iframe></center>
   
-     <H3>Interactive Map, Yearly Changes</H3> 
+     <H2>Interactive Map, Yearly Changes</H2> 
    <iframe src="https://public.tableau.com/views/Yearly_15985469834260/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width="70%" height="100%" frameborder="0"></iframe>
 
 
