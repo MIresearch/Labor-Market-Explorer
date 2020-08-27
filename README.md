@@ -38,13 +38,6 @@ alt="Web Analytics"></a></div></noscript>
   overflow-x: hidden;
   padding-top: 20px;
 }
-.left {
-  left: 0;
- }
-
-.right {
-  right: 0;
-  }
 
 .centered {
   position: absolute;
