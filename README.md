@@ -55,7 +55,7 @@ alt="Web Analytics"></a></div></noscript>
 </style>
  </head>
 
-<div class>
+<div class ="description">
 <H1><b>Milken Institute Research Department </b></H1>  <Hr>
 <H2><b>Labor Market Explorer</b></H2>  <Hr>
 
