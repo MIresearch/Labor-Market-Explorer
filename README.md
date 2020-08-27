@@ -63,7 +63,7 @@ alt="Web Analytics"></a></div></noscript>
 The <b> Labor Market Explorer </b> is a set of interactive maps of the US metropolitan areas that allows the users to track the employment changes across eight major economic sectors:  education and health services, financial activities, government, information, leisure and hospitality, manufacturing, professional and business services, and trade, transportation, and utilities.
 
 <br>
-<a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
+<a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page*</b>  </a>
 
 
 <Br>
@@ -71,7 +71,7 @@ The <b> Labor Market Explorer </b> is a set of interactive maps of the US metrop
 <center><iframe src="https://public.tableau.com/views/Monthly_15985501456920/MonthlyDash?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width="120%" height="600" frameborder="0"></iframe></center>
   
 
-<center><iframe src="https://public.tableau.com/views/Yearly_15985507651480/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="650" frameborder="0"></iframe></center>
+<center><iframe src="https://public.tableau.com/views/Yearly_15985507651480/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width="120%" height="600" frameborder="0"></iframe></center>
 <i>Source: Moody’s Analytics; Milken Institute. Note: The maps consider Metropolitan Statistical Areas (MSAs), excluding including Micropolitan Statistical Areas.</i>
  <br>
  <br>
