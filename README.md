@@ -61,7 +61,7 @@ alt="Web Analytics"></a></div></noscript>
 
 The <b> Labor Market Explorer </b> is a set of interactive map of the US metropolitan areas that allow the users to track the employment changes across eight major economic sectors:  education and health services, financial activities, government, information, leisure and hospitality, manufacturing, professional and business services, and trade, transportation, and utilities.
 
-
+<br>
 <a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
 </div>
 
