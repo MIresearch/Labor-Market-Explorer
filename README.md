@@ -70,17 +70,15 @@ The <b> Labor Market Explorer </b> is a set of interactive map of the US metropo
 <Br>
  <div class="split left">
   <div class="centered">
-    <img src="img_avatar2.png" alt="Avatar woman">
-    <h2>Jane Flex</h2>
-    <p>Some text.</p>
+     <H3>Interactive Map, Monthly Changes</H3> 
+   <iframe src="https://public.tableau.com/views/COVID-19MappingItsImpactonUSIndustriesMonthlyChange/Monthly?:language=en&:display_count=y&publish=yes&:origin=viz_share_link"></iframe>
   </div>
 </div>
 
 <div class="split right">
   <div class="centered">
-    <img src="img_avatar.png" alt="Avatar man">
-    <h2>John Doe</h2>
-    <p>Some text here too.</p>
+     <H3>Interactive Map, Monthly Changes</H3> 
+   <iframe src="https://public.tableau.com/views/COVID-19MappingItsImpactonUSIndustriesMonthlyChange/Monthly?:language=en&:display_count=y&publish=yes&:origin=viz_share_link"></iframe>
   </div>
 </div>
 
