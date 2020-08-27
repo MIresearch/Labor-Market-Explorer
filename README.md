@@ -33,8 +33,7 @@ alt="Web Analytics"></a></div></noscript>
   height: 100%;
   width: 50%;
   position: static;
-   top: 20;
-  overflow-x: hidden;
+overflow-x: hidden;
   padding-top: 20px;
 }
 .left {
