@@ -55,7 +55,7 @@ alt="Web Analytics"></a></div></noscript>
 </style>
  </head>
 
-
+<div class>
 <H1><b>Milken Institute Research Department </b></H1>  <Hr>
 <H2><b>Labor Market Explorer</b></H2>  <Hr>
 
@@ -63,6 +63,7 @@ The <b> Labor Market Explorer </b> is a set of interactive map of the US metropo
 
 
 <a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
+</div>
 
 <Br>
  <br>
