@@ -45,7 +45,7 @@ The maps show the evolution of the employment, monthly and yearly changes, since
 <Br>
  <H2>Interactive Maps</H2>  <Hr>
  
-<center><iframe src="https://public.tableau.com/views/Monthly_15985501456920/MonthlyDash?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width="100vw" height="650" frameborder="0"></iframe></center>
+<center><iframe src="https://public.tableau.com/views/Monthly_15985501456920/MonthlyDash?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width="140%" height="650" frameborder="0"></iframe></center>
   
 
 <iframe src="https://public.tableau.com/views/Yearly_15985507651480/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width="140%" height="650" frameborder="0"></iframe>
