@@ -80,26 +80,14 @@ The <b> Labor Market Explorer </b> is a set of interactive map of the US metropo
   </div>
 </div>
 
- <div class="split left">
-  <div class="centered">
-   <H3>Interactive Map, Monthly Changes test</H3> 
-   <iframe src="https://public.tableau.com/views/COVID-19MappingItsImpactonUSIndustriesMonthlyChange/Monthly?:language=en&:display_count=y&publish=yes&:origin=viz_share_link"></iframe>
-   </div>
-</div>
-
-<div class="split right">
-  <div class="centered">
-   <H3>Interactive Map, Yearly Changes test</H3> 
-     <iframe src="https://public.tableau.com/views/COVID-19MappingItsImpactonUSIndustriesYear-over-yearChange/Yearly?:language=en&:display_count=y&:origin=viz_share_link"></iframe>
-  </div>
-</div>
-  
-  
-  <br>
-  
-  
  
- 
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
   
 <br>
 <br>
