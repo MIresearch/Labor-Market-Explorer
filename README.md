@@ -58,7 +58,7 @@ alt="Web Analytics"></a></div></noscript>
  </head>
 
 <H1><b>Milken Institute Research Department </b></H1>  <Hr>
-<H2><b>Labor Market Explorer</b></H2>  <Hr>
+<H2><b>Labor Market Explorer for US Metropolitan Areas</b></H2>  <Hr>
 
 The <b> Labor Market Explorer </b> is a set of interactive maps of the US metropolitan areas that allows the users to track the employment changes across eight major economic sectors:  education and health services, financial activities, government, information, leisure and hospitality, manufacturing, professional and business services, and trade, transportation, and utilities.
 
