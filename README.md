@@ -82,14 +82,14 @@ The <b> Labor Market Explorer </b> is a set of interactive map of the US metropo
 
  <div class="split left">
   <div class="centered">
-   <H3>Interactive Map, Monthly Changes</H3> 
+   <H3>Interactive Map, Monthly Changes test</H3> 
    <iframe src="https://public.tableau.com/views/COVID-19MappingItsImpactonUSIndustriesMonthlyChange/Monthly?:language=en&:display_count=y&publish=yes&:origin=viz_share_link"></iframe>
    </div>
 </div>
 
 <div class="split right">
   <div class="centered">
-   <H3>Interactive Map, Yearly Changes</H3> 
+   <H3>Interactive Map, Yearly Changes test</H3> 
      <iframe src="https://public.tableau.com/views/COVID-19MappingItsImpactonUSIndustriesYear-over-yearChange/Yearly?:language=en&:display_count=y&:origin=viz_share_link"></iframe>
   </div>
 </div>
@@ -99,43 +99,7 @@ The <b> Labor Market Explorer </b> is a set of interactive map of the US metropo
   
   
  
- What does each industry sector include? 
-
  
-
-The education and health services sector includes educational services and health care and social assistance (individual and family services; emergency and other relief services; vocational rehabilitation services; child day care services).  
-
- 
-
-The subsectors of the financial activities sector include: monetary authorities - central bank; credit intermediation and related activities; securities, commodity contracts, investments, and funds and trusts; insurance carriers and related activities; real estate; rental and leasing services; lessors of nonfinancial intangible assets. 
-
- 
-
-The government sector includes federal, state, and local government jobs.  
-
- 
-
-The subsectors of the information sector include: publishing industries, except Internet; motion picture and sound recording industries; broadcasting, except Internet; telecommunications; data processing, hosting and related services; other information services. 
-
- 
-
-The subsectors of the leisure and hospitality sector include: arts, entertainment, and recreation (performing arts and spectator sports; museums, historical sites, zoos, and parks; amusements, gambling, and recreation), accommodation and food services (accommodation; food services and drinking places), other services (repair and maintenance; personal and laundry services; membership associations and organizations). 
-
- 
-
-The subsectors of the manufacturing sector include: wood products; nonmetallic mineral products; primary metals; fabricated metal products; machinery; computer and electronic products; electrical equipment and appliances; transportation equipment; furniture and related products; miscellaneous durable goods manufacturing; food manufacturing; textile mills; textile product mills; apparel; paper and paper products; printing and related support activities; petroleum and coal products; chemicals; plastics and rubber products; miscellaneous nondurable goods manufacturing. 
-
- 
-
-The subsectors of the professional and business services sector include: professional and technical services (legal services; accounting and bookkeeping services; architectural and engineering services; specialized design services; computer systems design and related services; management and technical consulting services; scientific research and development services; advertising and related services; other professional and technical services), management of companies and enterprises, and administrative and waste services (administrative and support services; waste management and remediation services). 
-
- 
-
-The subsectors of the trade, transportation, and utilities sector include: wholesale trade; retail trade; transportation and warehousing; utilities. 
-
- 
-
- data sources: Moody’s Analytics; Milken Institute.
   
 <br>
 <br>
