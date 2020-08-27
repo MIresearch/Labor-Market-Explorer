@@ -68,7 +68,7 @@ The <b> Labor Market Explorer </b> is a set of interactive maps of the US metrop
 
 <Br>
  <H2>Interactive Maps</H2>  <Hr>
-<center><iframe src="https://public.tableau.com/views/Monthly_15985501456920/MonthlyDash?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="650" frameborder="0"></iframe></center>
+<center><iframe src="https://public.tableau.com/views/Monthly_15985501456920/MonthlyDash?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width="120%" height="650" frameborder="0"></iframe></center>
   
 
 <center><iframe src="https://public.tableau.com/views/Yearly_15985507651480/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="650" frameborder="0"></iframe></center>
