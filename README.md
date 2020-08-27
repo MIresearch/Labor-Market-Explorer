@@ -72,7 +72,7 @@ The <b> Labor Market Explorer </b> is a set of interactive map of the US metropo
   
 
 <center><iframe src="https://public.tableau.com/views/Yearly_15985507651480/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="600" frameborder="0"></iframe></center>
-<i>Source: Moody’s Analytics; Milken Institute.<i>
+<i>Source: Moody’s Analytics; Milken Institute.</i>
  <br>
  <br>
 <H2>What does each industry sector include?<H2> <Hr>
