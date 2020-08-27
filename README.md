@@ -46,7 +46,7 @@ alt="Web Analytics"></a></div></noscript>
   }
 
 .centered {
-  position: relative;
+  position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -65,6 +65,10 @@ The <b> Labor Market Explorer </b> is a set of interactive map of the US metropo
 <a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
 
 <Br>
+ <br>
+ <br>
+ <br>
+ <br>
  <div class="split left">
   <div class="centered">
      <H3>Interactive Map, Monthly Changes</H3> 
