@@ -28,33 +28,7 @@ alt="Web Analytics"></a></div></noscript>
 <meta property="og:image:secure_url" content="https://claudelopezcom.ipage.com/claudelopez/jobs.jpg">
 <meta property="og:url" content="https://miresearch.github.io/Labor-Market-Explorer/">
 
-<style>
-.split {
-  height: 100%;
-  width: 50%;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  overflow-x: hidden;
-  padding-top: 20px;
-}
 
-.left {
-  left: 0;
- }
-
-.right {
-  right: 0;
-  }
-
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  text-align: center;
-}
-</style>
  </head>
 
 <H1><b>Milken Institute Research Department </b></H1>  <Hr>
