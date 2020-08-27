@@ -75,23 +75,23 @@ The <b> Labor Market Explorer </b> is a set of interactive map of the US metropo
 <i>Source: Moody’s Analytics; Milken Institute.</i>
  <br>
  <br>
-<H2>What does each industry sector include?<H2> <Hr>
-<B>Education and health services sector</b> includes educational services and health care and social assistance (individual and family services; emergency and other relief services; vocational rehabilitation services; child day care services).  
+<H2>What does each industry sector include?</H2> <Hr>
+<ul>
+ <li><B>Education and health services sector</b> includes educational services and health care and social assistance (individual and family services; emergency and other relief services; vocational rehabilitation services; child day care services).  </li>
 
-<b>Financial activities sector</b> includes monetary authorities - central bank; credit intermediation and related activities; securities, commodity contracts, investments, and funds and trusts; insurance carriers and related activities; real estate; rental and leasing services; lessors of nonfinancial intangible assets. 
+<li><b>Financial activities sector</b> includes monetary authorities - central bank; credit intermediation and related activities; securities, commodity contracts, investments, and funds and trusts; insurance carriers and related activities; real estate; rental and leasing services; lessors of nonfinancial intangible assets. </li>
 
-<b> Government sector </b> includes federal, state, and local government jobs.  
+<li><b> Government sector </b> includes federal, state, and local government jobs.  </li>
 
-<b>Information sector</b> includes: publishing industries, except Internet; motion picture and sound recording industries; broadcasting, except Internet; telecommunications; data processing, hosting and related services; other information services. 
+<li><b>Information sector</b> includes: publishing industries, except Internet; motion picture and sound recording industries; broadcasting, except Internet; telecommunications; data processing, hosting and related services; other information services. </li>
 
- <b>Leisure and hospitality sector </b> includes: arts, entertainment, and recreation (performing arts and spectator sports; museums, historical sites, zoos, and parks; amusements, gambling, and recreation), accommodation and food services (accommodation; food services and drinking places), other services (repair and maintenance; personal and laundry services; membership associations and organizations). 
+<li> <b>Leisure and hospitality sector </b> includes: arts, entertainment, and recreation (performing arts and spectator sports; museums, historical sites, zoos, and parks; amusements, gambling, and recreation), accommodation and food services (accommodation; food services and drinking places), other services (repair and maintenance; personal and laundry services; membership associations and organizations). </li>
 
-<b>Manufacturing sector</b> includes: wood products; nonmetallic mineral products; primary metals; fabricated metal products; machinery; computer and electronic products; electrical equipment and appliances; transportation equipment; furniture and related products; miscellaneous durable goods manufacturing; food manufacturing; textile mills; textile product mills; apparel; paper and paper products; printing and related support activities; petroleum and coal products; chemicals; plastics and rubber products; miscellaneous nondurable goods manufacturing. 
+<li><b>Manufacturing sector</b> includes: wood products; nonmetallic mineral products; primary metals; fabricated metal products; machinery; computer and electronic products; electrical equipment and appliances; transportation equipment; furniture and related products; miscellaneous durable goods manufacturing; food manufacturing; textile mills; textile product mills; apparel; paper and paper products; printing and related support activities; petroleum and coal products; chemicals; plastics and rubber products; miscellaneous nondurable goods manufacturing. </li>
 
- <b> Professional and business services sector</b> includes: professional and technical services (legal services; accounting and bookkeeping services; architectural and engineering services; specialized design services; computer systems design and related services; management and technical consulting services; scientific research and development services; advertising and related services; other professional and technical services), management of companies and enterprises, and administrative and waste services (administrative and support services; waste management and remediation services). 
+<li> <b> Professional and business services sector</b> includes: professional and technical services (legal services; accounting and bookkeeping services; architectural and engineering services; specialized design services; computer systems design and related services; management and technical consulting services; scientific research and development services; advertising and related services; other professional and technical services), management of companies and enterprises, and administrative and waste services (administrative and support services; waste management and remediation services). </li>
 
- <b> Trade, transportation, and utilities sector</b> includes: wholesale trade; retail trade; transportation and warehousing; utilities. 
- 
+ <li><b> Trade, transportation, and utilities sector</b> includes: wholesale trade; retail trade; transportation and warehousing; utilities. </li>
 
  
  
