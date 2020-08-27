@@ -46,7 +46,7 @@ alt="Web Analytics"></a></div></noscript>
   }
 
 .centered {
-  position: relative;
+  position: static;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
