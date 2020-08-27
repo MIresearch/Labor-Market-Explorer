@@ -38,21 +38,6 @@ The <b> Labor Market Explorer </b> is a set of interactive map of the US metropo
 
 
 <a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
-<div class="split left">
-  <div class="centered">
-    <img src="img_avatar2.png" alt="Avatar woman">
-    <h2>Jane Flex</h2>
-    <p>Some text.</p>
-  </div>
-</div>
-
-<div class="split right">
-  <div class="centered">
-    <img src="img_avatar.png" alt="Avatar man">
-    <h2>John Doe</h2>
-    <p>Some text here too.</p>
-  </div>
-</div>
 
 <Br>
  <div class="split left">
