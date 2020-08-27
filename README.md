@@ -19,13 +19,13 @@ alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
  
 <meta name="twitter:title" content="Labor Market Explorer">
-<meta name="twitter:image" content="https://claudelopezcom.ipage.com/claudelopez/GOI.jpg">
+<meta name="twitter:image" content="https://claudelopezcom.ipage.com/claudelopez/jobs.jpg">
 <meta name="twitter:card" content="summary_large_image">
 
 <meta property="og:title" content="Labor Market Explorer">
-<meta property="og:image" content="https://claudelopezcom.ipage.com/claudelopez/GOI.jpg">
-<meta property="og:image:url" content="https://claudelopezcom.ipage.com/claudelopez/GOI.jpg">
-<meta property="og:image:secure_url" content="https://claudelopezcom.ipage.com/claudelopez/GOI.jpg">
+<meta property="og:image" content="https://claudelopezcom.ipage.com/claudelopez/jobs.jpg">
+<meta property="og:image:url" content="https://claudelopezcom.ipage.com/claudelopez/jobs.jpg">
+<meta property="og:image:secure_url" content="https://claudelopezcom.ipage.com/claudelopez/jobs.jpg">
 <meta property="og:url" content="https://miresearch.github.io/Labor-Market-Explorer/">
 
 <style>
