@@ -52,7 +52,6 @@ The maps show the evolution of the employment, monthly and yearly changes, since
 <i>Source: Moody’s Analytics; Milken Institute. Note: The maps consider Metropolitan Statistical Areas (MSAs), excluding Micropolitan Statistical Areas.</i>
 
 
-
  <br>
  <br>
 <H2>What does each industry sector include?</H2> <Hr>
