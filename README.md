@@ -50,6 +50,10 @@ The maps show the evolution of the employment, monthly and yearly changes, since
 
 <iframe src="https://public.tableau.com/views/Yearly_15985507651480/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width="140%" height="650" frameborder="0"></iframe>
 <i>Source: Moody’s Analytics; Milken Institute. Note: The maps consider Metropolitan Statistical Areas (MSAs), excluding including Micropolitan Statistical Areas.</i>
+
+<iframe src="https://us-west-2b.online.tableau.com/t/milkeninstituteresearchdepartment/views/Monthly6/Monthly?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link" width="140%" height="650" frameborder="0"></iframe>
+
+
  <br>
  <br>
 <H2>What does each industry sector include?</H2> <Hr>
