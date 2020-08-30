@@ -43,7 +43,7 @@ The maps show the evolution of the employment, monthly and yearly changes, since
 
 
 <Br>
- <H2>Interactive Maps*</H2>  <Hr>
+ <H2>Interactive Maps</H2>  <Hr>
  
 <iframe src="https://public.tableau.com/views/Monthly_15985845712710/MonthlyDash?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe>
  
