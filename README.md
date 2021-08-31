@@ -53,7 +53,7 @@ The maps show the evolution of the employment, monthly and yearly changes, since
 <br>  
  <br>
  <br>
- <H2><b> Community Explorer</b> </H2> <Hr>
+ <H2> Community Explorer </H2> <Hr>
 The <b>Community Explorer</b> dentifies the different populations or communities based on their behavioral, demographic, economic, and social profiles.<br>
   <br> Using machine learning techniques, the counties are clustered into <b>8 community profiles</B>:
  <br><b>1</b> - the most ethnically diverse community with the highest income level. It is a highly educated cohort that resides in large metro areas. (38% US population)
