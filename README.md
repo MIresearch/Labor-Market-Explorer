@@ -34,8 +34,8 @@ alt="Web Analytics"></a></div></noscript>
 <H1><b>MI Research Department on GitHub</b></H1>  <Hr>
 <H2><b>Labor Market Explorer for US Metropolitan Areas</b></H2>  <Hr>
 
-The <b> Labor Market Explorer </b> is a set of dynamic and interactive maps of the US metropolitan areas that allows users to track the employment changes across eight major economic sectors:  education and health services, financial activities, government, information, leisure and hospitality, manufacturing, professional and business services, and trade, transportation, and utilities. <br><br>
-The maps show the evolution of the employment, monthly and yearly changes, since January 2020 and provide information on the governor party, as well as the state lockdown and stay at home order. 
+The <b> Labor Market Explorer </b> is a set of dynamic and interactive maps of the US metropolitan areas that allows users to track the employment changes across eight major economic sectors:  education and health services, financial activities, government, information, leisure and hospitality, manufacturing, professional and business services, and trade, transportation, and utilities. It also allows to focus on the changes for the county-communities as defined in the  <ahref="https://miresearch.github.io/Community-Explorer/" target="_blank"> Community Explorer </a>.<br><br>
+The maps show the evolution of the employment, monthly and yearly changes, since January 2020 and provide information on the governor party, as well as the state lockdown and stay at home order.  The information can also be filtered by county-profiles.
 
 
 <br>
@@ -53,7 +53,21 @@ The maps show the evolution of the employment, monthly and yearly changes, since
 <br>  
  <br>
  <br>
-<H2>What does each industry sector include?</H2> <Hr>
+ <H2><b> Community Explorer</b> </H2> <Hr>
+The <b>Community Explorer</b> dentifies the different populations or communities based on their behavioral, demographic, economic, and social profiles.<br>
+  <br> Using machine learning techniques, the counties are clustered into <b>8 community profiles</B>:
+ <br><b>1</b> - the most ethnically diverse community with the highest income level. It is a highly educated cohort that resides in large metro areas. (38% US population)
+<br><b>2</b> - highly educated, economically prosperous, mostly White counties in metro areas. (25% US population)
+<br><b>3</b> - the largest Black population, whose income is the lowest income of all the profiles. These counties are primarily concentrated in the south-east. (12% US population)
+<br><b>4</b> - the largest white population with the lowest income of all the profiles. It encompasses mostly rural counties in the East North Central, and Northeast regions. (7% US population))
+<br><b>5</b> - predominantly White counties whose economy depends mostly on manufacturing and are located around the Midwest region. (6% US population) 
+<br><b>6</b> - the youngest cohort of the profiles, with the largest Hispanic population, the least education level, access to healthy food, and health insurance. The counties are concentrated in the West and West South-Central regions.  (5% US population)
+<br><b>7</b> - the oldest cohort of the profiles and consists of mostly White, elderly retirement communities. (4% US population)
+<br><b>8</b> - the most rural cohort made of an older White population with the most limited access to healthy food of all the profiles. The counties are mostly in the north part of the West, Midwest, and Northeast regions. (3% US population)<br>
+
+  
+<Br>
+<H2><b>What does each industry sector include?<b></H2> <Hr>
 <ul>
  <li><B>Education and health services sector</b> includes educational services and health care and social assistance (individual and family services; emergency and other relief services; vocational rehabilitation services; child day care services).  </li> <br>
 
@@ -73,6 +87,15 @@ The maps show the evolution of the employment, monthly and yearly changes, since
 
  
  <br>
+ <H2>Related Research</H2>
+-<a href="https://milkeninstitute.org/sites/default/files/reports-pdf/Community%20Explorer.pdf" target="_blank"> The Community Explorer: Informing Policy with County-Level Data </a> <br>
+-<a href="https://miresearch.github.io/Community-Explorer/" target="_blank"> Community Explorer</a> <br>
+ -<a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer" target="_blank"> COVID-19 Community Explorer</a> <br>
+-<a href="https://milkeninstitute.org/reports/weighing-down-america-2020-update" target="_blank"> Weighing Down America: 2020 Update</a><br>
+<Br>
+<a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
+
+
 <Bh>
 
 
