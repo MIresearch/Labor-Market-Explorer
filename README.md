@@ -67,7 +67,7 @@ The <b>Community Explorer</b> dentifies the different populations or communities
 
   
 <Br>
-<H2><b>What does each industry sector include?<b></H2> <Hr>
+<H2>What does each industry sector include?</H2> <Hr>
 <ul>
  <li><B>Education and health services sector</b> includes educational services and health care and social assistance (individual and family services; emergency and other relief services; vocational rehabilitation services; child day care services).  </li> <br>
 
