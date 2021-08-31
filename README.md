@@ -45,11 +45,9 @@ The maps show the evolution of the employment, monthly and yearly changes, since
 <Br>
  <H2>Interactive Maps</H2>  <Hr>
  
-<iframe src="https://public.tableau.com/views/Monthly_15985845712710/Monthly?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe>
- https://public.tableau.com/views/Yearly_15987421809890/DashboardYearly?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+<iframe src="https://public.tableau.com/views/Monthly_15985845712710/DashboardMonthly?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe>
                                                                                          
-<iframe src="https://public.tableau.com/views/Yearly_15987421809890/Yearly?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe>
- <iframe src=" https://public.tableau.com/views/Yearly_15987421809890/DashboardYearly?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe>
+<iframe src=" https://public.tableau.com/views/Yearly_15987421809890/DashboardYearly?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe>
 <small><i>Source: Moody’s Analytics; Milken Institute. Note: The maps consider Metropolitan Statistical Areas (MSAs), excluding Micropolitan Statistical Areas. </i></small>
 
 <br>  
