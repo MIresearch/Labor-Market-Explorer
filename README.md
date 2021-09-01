@@ -32,10 +32,12 @@ alt="Web Analytics"></a></div></noscript>
  </head>
 
 <H1><b>MI Research Department on GitHub</b></H1>  <Hr>
-<H2><b>Labor Market Explorer for US Metropolitan Areas</b></H2>  <Hr>
+<H2><b>US Labor Market Explorer</b></H2>  <Hr>
 
-The <b> Labor Market Explorer </b> is a set of dynamic and interactive maps of the US metropolitan areas that allows users to track the employment changes across eight major economic sectors:  education and health services, financial activities, government, information, leisure and hospitality, manufacturing, professional and business services, and trade, transportation, and utilities. It also allows to focus on the changes for the county-communities as defined in the  <a href="https://miresearch.github.io/Community-Explorer/" target="_blank"> Community Explorer </a>.<br><br>
-The maps show the evolution of the employment, monthly and yearly changes, since January 2020 and provide information on the governor party, as well as the state lockdown and stay at home order.  The information can also be filtered by county-profiles.
+The <b> Labor Market Explorer </b> is a set of dynamic and interactive maps combining information at the metropolitan-areas and county levels. As a result, the users can:
+<br><b>1-></b> track the employment changes across eight major economic sectors (education and health services, financial activities, government, information, leisure and hospitality, manufacturing, professional and business services, and trade, transportation, and utilities) for a specific metropolitan area</li> <br>
+<br> <b>2 -> </b>look at the behavioral, demographic, economic, and social profile of its populations based on the <a href="https://miresearch.github.io/Community-Explorer/" target="_blank"> Community Explorer </a>.<br><br>
+The maps show the evolution of the employment, monthly and yearly changes, since January 2020. They also indicate the governing party of the area and provide updates on state lockdown, and stay-at-home orders, and indoor mask mandates. The information can be filtered by the 8 county-profiles dedined in the <a href="https://miresearch.github.io/Community-Explorer/" target="_blank"> Community Explorer </a>.
 
 
 <br>
@@ -54,7 +56,7 @@ The maps show the evolution of the employment, monthly and yearly changes, since
  <br>
  <br>
  <H2> Community Explorer </H2> <Hr>
-The <b>Community Explorer</b> dentifies the different populations or communities based on their behavioral, demographic, economic, and social profiles.<br>
+The <b>Community Explorer</b> identifies the different populations or communities based on their behavioral, demographic, economic, and social profiles.<br>
   <br> Using machine learning techniques, the counties are clustered into <b>8 community profiles</B>:
  <br><b>1</b> - the most ethnically diverse community with the highest income level. It is a highly educated cohort that resides in large metro areas. (38% US population)
 <br><b>2</b> - highly educated, economically prosperous, mostly White counties in metro areas. (25% US population)
