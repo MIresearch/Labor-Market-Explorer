@@ -90,9 +90,11 @@ The <b>Community Explorer</b> identifies the different populations or communitie
  
  <br>
  <H2>Related Research</H2>
+-<a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> The Community Explorer ** beta version ** (17 profiles based on 751 factors) </a> <br>
+-<a href="https://miresearch.github.io/Community-Explorer/" target="_blank"> The Community Explorer  (8 profiles based on 26 factors) </a> <br>
 -<a href="https://milkeninstitute.org/sites/default/files/reports-pdf/Community%20Explorer.pdf" target="_blank"> The Community Explorer: Informing Policy with County-Level Data </a> <br>
--<a href="https://miresearch.github.io/Community-Explorer/" target="_blank"> Community Explorer</a> <br>
- -<a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer" target="_blank"> COVID-19 Community Explorer</a> <br>
+-<a href="https://miresearch.github.io/COVID19-Community-Explorer/" target="_blank"> COVID-19 Community Explorer (17 Profiles)</a> <br>
+-<a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer" target="_blank"> COVID-19 Community Explorer (8 Profiles)</a> <br>
 -<a href="https://milkeninstitute.org/reports/weighing-down-america-2020-update" target="_blank"> Weighing Down America: 2020 Update</a><br>
 <Br>
 <a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
