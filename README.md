@@ -37,7 +37,7 @@ alt="Web Analytics"></a></div></noscript>
 The <b> Labor Market Explorer </b> is a set of dynamic and interactive maps combining information at the metropolitan-areas and county levels. As a result, the users can:
 <br><b>1-> track the employment changes across eight major economic sectors </b> (education and health services, financial activities, government, information, leisure and hospitality, manufacturing, professional and business services, and trade, transportation, and utilities) for a specific metropolitan area
 <br> <b>2 -> look at the behavioral, demographic, economic, and social profile of its population based on the <a href="https://miresearch.github.io/Community-Explorer/" target="_blank"> Community Explorer </a></b> <br><br>
-The maps show the evolution of the employment, monthly and yearly changes, since January 2020. They also indicate the governing party of the area and provide updates on state lockdown, and stay-at-home orders, and indoor mask mandates. The information can be filtered by the 8 county-profiles dedined in the <a href="https://miresearch.github.io/Community-Explorer/" target="_blank"> Community Explorer </a>.
+The maps show the evolution of the employment, monthly and yearly changes, since January 2020. The information can be filtered by the 17 county-profiles defined by the <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> Community Explorer </a>.
 
 
 <br>
@@ -56,16 +56,36 @@ The maps show the evolution of the employment, monthly and yearly changes, since
  <br>
  <br>
  <H2> Community Explorer </H2> <Hr>
-The <b>Community Explorer</b> identifies the different populations or communities based on their behavioral, demographic, economic, and social profiles.<br>
-  <br> Using machine learning techniques, the counties are clustered into <b>8 community profiles</B>:
- <br><b>1</b> - the most ethnically diverse community with the highest income level. It is a highly educated cohort that resides in large metro areas. (38% US population)
-<br><b>2</b> - highly educated, economically prosperous, mostly White counties in metro areas. (25% US population)
-<br><b>3</b> - the largest Black population, whose income is the lowest income of all the profiles. These counties are primarily concentrated in the south-east. (12% US population)
-<br><b>4</b> - the largest white population with the lowest income of all the profiles. It encompasses mostly rural counties in the East North Central, and Northeast regions. (7% US population))
-<br><b>5</b> - predominantly White counties whose economy depends mostly on manufacturing and are located around the Midwest region. (6% US population) 
-<br><b>6</b> - the youngest cohort of the profiles, with the largest Hispanic population, the least education level, access to healthy food, and health insurance. The counties are concentrated in the West and West South-Central regions.  (5% US population)
-<br><b>7</b> - the oldest cohort of the profiles and consists of mostly White, elderly retirement communities. (4% US population)
-<br><b>8</b> - the most rural cohort made of an older White population with the most limited access to healthy food of all the profiles. The counties are mostly in the north part of the West, Midwest, and Northeast regions. (3% US population)<br>
+The Community Explorer is an interactive tool that brings the power of big data and machine learning to the equity-related policy discussions, via an easy-to-search, easy-to-use, and easy-to-download format. The 17 communities can be summarised as:
+<br>
+<br><b>Urban America</B> captures 74% of the U.S. population spread across 819 urban core, suburban, and small metro counties.
+<br><b>1-Urban-Core =></b> Prosperous, ethnically and linguistically diverse large metro areas with substantial disparities between their highly educated (largely White ) and less educated (largely Black or African American) residents (26% of the population)
+<br><b>2-Lower-Middle Class  =></b> Less populous suburban and small metro counties that are not as economically prosperous as the rest of Mainstream America (18% of the population)
+<br><b>3-Affluent Suburbs =></b> Affluent and more populous (but less diverse) suburban and small metro counties that jointly represent the profile with the highest median income (16% of the population)
+<br><b>4-Middle Class =></b> Middle-class communities with a largely White population that resides in large- to medium-sized suburban and small metro counties (14% of the population)
+<br>
+<br><b>Industry-Driven America</B> captures 17% of the U.S. population spread across 1507 counties in which employment is concentrated in one industry that shapes all aspects of the population's profile.
+<br><b>5-College Towns =></b> College towns with a relatively young, highly educated, and highly geographically mobile population (5.4% of the population)
+<br><b>6-Manufacturing Midwest =></b> Counties primarily located in the Midwest that form the profile with the highest proportion of White population working in the manufacturing sector (5.2% of the population) 
+<br><b>7-Low-Wage Manufacturing =></b> Low-wage workers in the manufacturing and chemical industries located largely in the South and North-East regions of the country, with an above-average proportion of the population living below the poverty line (4.9% of the population)
+<br><b>11-Hispanic Agriculture =></b> Highly agricultural communities with a higher than average concentration of Hispanic or Latino population residing mostly in the West and South (1.2% of the population)
+<br><b>15-The Great Plains =></b> => Agricultural counties located in the Great Plains with a high proportion of the White population (0.3% of the population)
+<br>
+<br><b>Graying America</B> captures 5.1% of the U.S. population spread across 378 counties that jointly represent the highest concentration of population of age 65 years or older. 
+<br><b>8-Retiree Communities =></b> Retiree communities with adequate household incomes and access to economic resources (4.5% of the population) 
+<br><b>13-Isolated Seniors =></b> Isolated seniors with high disability rates and relatively low incomes (0.6% of the population)
+<br>
+<br><b>Extremely Vulnerable America</B> captures 3.5% of the U.S. population spread across 424 counties that represent the profile with the lowest of levels of income.
+<br><b>9-Hispanic Southern Border =></b> Counties mostly located along the U.S. southern border with a majority of a relatively young Hispanic or Latino population living in extreme poverty (1.4% of the population)
+<br><b>10-Black South =></b> Southern counties with the highest proportion of Black or African American population and lowest median household income of all profiles (1.3% of the population)
+<br><b>12-White Appalachia =></b> White communities in Appalachia with the third-highest level of unemployment rates and second-lowest household income of all profiles (0.7% of the U.S. population)
+<br><b>16-American Indian Reservations =></b> American Indian Reservation communities living in extreme poverty with more than one-third of the population with income below the poverty line (0.1% of the population)
+<br>
+<br><b>Noncontiguous America</B> captures 0.42% of the U.S. population spread across 34 counties that combine all Hawaiian and nine Alaskan counties.
+<br><b>14-Hawaii =></b> The Aloha State with high racial and ethnic diversity, high income, and relatively low-income inequality (0.4% of the population)
+<br><b>17-Native Alaska =></b> Alaskan communities with large economic gaps between the White and Alaska Native populations (0.02% of the population)
+ 
+<br><br>
 
   
 <Br>
