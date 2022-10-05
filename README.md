@@ -52,8 +52,6 @@ The maps show the evolution of the employment, monthly and yearly changes, since
 <iframe src=" https://public.tableau.com/views/Yearly_15987421809890/DashboardYearly?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe>
 <small><i>Source: Moody’s Analytics; Milken Institute. Note: The maps consider Metropolitan Statistical Areas (MSAs), excluding Micropolitan Statistical Areas. </i></small>
 
-<br>  
- <br>
  <br>
  <H2> <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> Community Explorer </H2> <Hr>
 The <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> Community Explorer is an interactive tool that brings the power of big data and machine learning to the equity-related policy discussions, via an easy-to-search, easy-to-use, and easy-to-download format. The 17 communities can be summarised as:
