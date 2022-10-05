@@ -53,7 +53,7 @@ The maps show the evolution of the employment, monthly and yearly changes, since
 <small><i>Source: Moody’s Analytics; Milken Institute. Note: The maps consider Metropolitan Statistical Areas (MSAs), excluding Micropolitan Statistical Areas. </i></small>
 
  <br>
- <H2> <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> Community Explorer </a></H2> <Hr>
+ <H2> Community Explorer </H2> <Hr>
 The <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> Community Explorer is an interactive tool that brings the power of big data and machine learning to the equity-related policy discussions, via an easy-to-search, easy-to-use, and easy-to-download format. The 17 communities can be summarised as:
 <br>
 <br><b>Urban America</B> captures 74% of the U.S. population spread across 819 urban core, suburban, and small metro counties.
