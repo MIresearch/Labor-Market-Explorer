@@ -55,8 +55,8 @@ The maps show the evolution of the employment, monthly and yearly changes, since
 <br>  
  <br>
  <br>
- <H2> Community Explorer </H2> <Hr>
-The Community Explorer is an interactive tool that brings the power of big data and machine learning to the equity-related policy discussions, via an easy-to-search, easy-to-use, and easy-to-download format. The 17 communities can be summarised as:
+ <H2> <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> Community Explorer </H2> <Hr>
+The <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> Community Explorer is an interactive tool that brings the power of big data and machine learning to the equity-related policy discussions, via an easy-to-search, easy-to-use, and easy-to-download format. The 17 communities can be summarised as:
 <br>
 <br><b>Urban America</B> captures 74% of the U.S. population spread across 819 urban core, suburban, and small metro counties.
 <br><b>1-Urban-Core =></b> Prosperous, ethnically and linguistically diverse large metro areas with substantial disparities between their highly educated (largely White ) and less educated (largely Black or African American) residents (26% of the population)
