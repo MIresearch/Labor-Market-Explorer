@@ -37,7 +37,7 @@ alt="Web Analytics"></a></div></noscript>
 The <b> Labor Market Explorer </b> is a set of dynamic and interactive maps combining information at the metropolitan-areas and county levels. As a result, the users can:
 <br><b>1-> track the employment changes across eight major economic sectors </b> (education and health services, financial activities, government, information, leisure and hospitality, manufacturing, professional and business services, and trade, transportation, and utilities) for a specific metropolitan area
 <br> <b>2 -> look at the behavioral, demographic, economic, and social profile of its population based on the <a href="https://miresearch.github.io/Community-Explorer/" target="_blank"> Community Explorer </a></b> <br><br>
-The maps show the evolution of the employment, monthly and yearly changes, since January 2020. The information can be filtered by the 17 county-profiles defined by the <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> Community Explorer </a>.
+The maps show the evolution of the employment, monthly and yearly changes, since January 2020. The information can be filtered by the 17 county-profiles of the <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> Community Explorer </a>.
 
 
 <br>
@@ -54,7 +54,7 @@ The maps show the evolution of the employment, monthly and yearly changes, since
 
  <br>
  <H2> Community Explorer </H2> <Hr>
-The <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> Community Explorer is an interactive tool that brings the power of big data and machine learning to the equity-related policy discussions, via an easy-to-search, easy-to-use, and easy-to-download format. The 17 communities can be summarised as:
+The <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" target="_blank"> Community Explorer</a> is an interactive tool that brings the power of big data and machine learning to the equity-related policy discussions, via an easy-to-search, easy-to-use, and easy-to-download format. The 17 communities can be summarised as:
 <br>
 <br><b>Urban America</B> captures 74% of the U.S. population spread across 819 urban core, suburban, and small metro counties.
 <br><b>1-Urban-Core =></b> Prosperous, ethnically and linguistically diverse large metro areas with substantial disparities between their highly educated (largely White ) and less educated (largely Black or African American) residents (26% of the population)
