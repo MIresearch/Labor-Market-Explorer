@@ -69,17 +69,17 @@ The <a href="https://miresearch.github.io/Community-Explorer-17-profiles/" targe
 <br><b>11-Hispanic Agriculture =></b> Highly agricultural communities with a higher than average concentration of Hispanic or Latino population residing mostly in the West and South (1.2% of the population)
 <br><b>15-The Great Plains =></b> => Agricultural counties located in the Great Plains with a high proportion of the White population (0.3% of the population)
 <br>
-<br><b>Graying America</B> captures 5.1% of the U.S. population spread across 378 counties that jointly represent the highest concentration of population of age 65 years or older. 
+<br><b>Graying America</B> captures 5.1% of the U.S. population spread across 424 counties that jointly represent the highest concentration of population of age 65 years or older. 
 <br><b>8-Retiree Communities =></b> Retiree communities with adequate household incomes and access to economic resources (4.5% of the population) 
 <br><b>13-Isolated Seniors =></b> Isolated seniors with high disability rates and relatively low incomes (0.6% of the population)
 <br>
-<br><b>Extremely Vulnerable America</B> captures 3.5% of the U.S. population spread across 424 counties that represent the profile with the lowest of levels of income.
+<br><b>Extremely Vulnerable America</B> captures 3.5% of the U.S. population spread across 378 counties that represent the profile with the lowest of levels of income.
 <br><b>9-Hispanic Southern Border =></b> Counties mostly located along the U.S. southern border with a majority of a relatively young Hispanic or Latino population living in extreme poverty (1.4% of the population)
 <br><b>10-Black South =></b> Southern counties with the highest proportion of Black or African American population and lowest median household income of all profiles (1.3% of the population)
 <br><b>12-White Appalachia =></b> White communities in Appalachia with the third-highest level of unemployment rates and second-lowest household income of all profiles (0.7% of the U.S. population)
 <br><b>16-American Indian Reservations =></b> American Indian Reservation communities living in extreme poverty with more than one-third of the population with income below the poverty line (0.1% of the population)
 <br>
-<br><b>Noncontiguous America</B> captures 0.42% of the U.S. population spread across 34 counties that combine all Hawaiian and nine Alaskan counties.
+<br><b>Noncontiguous America</B> captures 0.42% of the U.S. population spread across 14 counties that combine all Hawaiian and nine Alaskan counties.
 <br><b>14-Hawaii =></b> The Aloha State with high racial and ethnic diversity, high income, and relatively low-income inequality (0.4% of the population)
 <br><b>17-Native Alaska =></b> Alaskan communities with large economic gaps between the White and Alaska Native populations (0.02% of the population)
  
